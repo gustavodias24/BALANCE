@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">BALANCE</string>
+    <!--    Count Step-->
+    <string name="count_step_activity_title">Step Counter</string>
+    <string name="aim_step">AIM: %1$d</string>
+    <string name="percent_aim">%1$d%%</string>
+    <string name="month_and_day">%s %s</string>
+    <string name="calories">%.3f</string>
+    <string name="distances">%.3f</string>
+    <string name="meter_tittle">MÉTROS</string>
+    <string name="calories_title">CALORIAS</string>
+
+
+    <!--    Gps Training-->
+    <string name="title_activity_gps_map">GPS Training</string>
+    <string name="map_id">5618cd7b01db1e2e</string>
+    <string name="distance_title">KILOMETERS</string>
+    <string name="duration_title">TIME</string>
+    <string name="calorie_title">CALORIE</string>
+    <string name="option_get_place">Get place</string>
+    <string name="pick_place">Choose a place</string>
+    <string name="stop_button">STOP</string>
+    <string name="start_button">START</string>
+    <string name="pause_button">PAUSE</string>
+    <string name="continue_button">CONTINUE</string>
+    <string name="duration">%d:%d:%d</string>
+
+    <!-- User Goal -->
+    <string name="user_setup_activity_title">Set Goal</string>
+    <string name="hint_target_step_per_day">Target steps per day</string>
+    <string name="steps_unit">steps</string>
+    <string name="or">or</string>
+    <string name="hint_target_calories_per_day">Target calories per day</string>
+    <string name="calories_unit">calories</string>
+    <string name="go">Go</string>
+    <string name="content">Content</string>
+    <string name="title">Title</string>
+
+    <!-- Strings do Hugo -->
+    <string name="login">Login</string>
+    <string name="button">Button</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="app">APP</string>
+    <string name="todo">TODO</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="proximo">Próximo</string>
+    <string name="supino">TODO</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="sexo">Sexo</string>
+    <string name="idade">Idade</string>
+    <string name="concluir">Concluir</string>
+    <string name="run">running</string>
+    <string name="cloud">TODO</string>
+    <string name="midleCloud">TODO</string>
+    <string name="iniciar_contador">Iniciar Contador</string>
+    <string name="passos_0">Passos: 0</string>
+    <string name="reset">Reset</string>
+    <string name="passos">Passos:</string>
+    <string name="preencha_o_formul_rio_com_suas_informa_es">Preencha suas informações</string>
+    <string name="loginMaiusculo">LOGIN</string>
+    <string name="preencha_os_campos_com_suas_informa_es">preencha os campos com suas informações</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="digite_seu_nome">digite seu nome</string>
+    <string name="digite_seu_telefone">digite seu telefone</string>
+    <string name="digite_o_seu_peso">digite o seu peso</string>
+    <string name="selecione_sua_altura">selecione sua altura</string>
+    <string name="selecione_seu_sexo">selecione seu sexo</string>
+    <string name="digite_sua_idade">digite sua idade</string>
+    <string name="digite_seu_email_cadastro">digite seu email</string>
+    <string name="digite_sua_senha_cadastro">digite sua senha</string>
+    <string name="apptext">APP</string>
+    <string name="formul_rio_de_cadastro">Formulário de Cadastro</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="Femenino">Femenino</string>
+    <string name="Masculino">Masculino</string>
+    <string name="caminhada_corrida_academia_etc">Caminhada, Corrida, Academia etc...</string>
+    <string name="quantas_vezes_por_semana">Quantas vezes por semana?</string>
+    <string name="que_tipo_de_atividade_voc_pratica">Que tipo de atividade você pratica?</string>
+    <string name="com_que_frequ_ncia_voc_pratica_atividade_f_sica">Com que frequência você pratica atividade física?</string>
+    <string name="pratica_atividade_f_sica">Pratica Atividade Física?</string>
+    <string name="sim">Sim</string>
+    <string name="n_o">Não</string>
+    <string name="qual_a_dura_o_em_minutos_das_atividades">Qual a duração (em minutos) das atividades?</string>
+    <string name="tempo_em_minutos">Tempo em minutos</string>
+    <string name="mostrar_senha">Mostrar Senha</string>
+    <string name="mostrar_senha_cad">Mostrar senha</string>
+</resources>
