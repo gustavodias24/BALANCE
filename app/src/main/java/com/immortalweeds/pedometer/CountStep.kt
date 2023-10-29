@@ -39,9 +39,9 @@ class CountStep : AppCompatActivity(), SensorEventListener {
     //  Static data
     companion object {
         private const val PERMISSIONS_REQUEST_ACCESS_ACTIVITY_RECOGNITION = 2
-        private const val TAG = "Contador de passos"
+        private const val TAG = "CountStep"
         private val X_TITLE: Array<String> =
-            arrayOf("DOM", "SEG", "TER", "QUA", "QUI", "SEX", "SÁB")
+            arrayOf("SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT")
     }
     private var todayNumber : Int? = null
     private var barChart: BarChart? = null

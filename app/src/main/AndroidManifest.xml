@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.immortalweeds.pedometer">
+    package="com.immortalweeds.pedometer" >
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -19,16 +19,10 @@
         android:roundIcon="@mipmap/logo_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Pedometer"
-        tools:targetApi="31">
-        <activity
-            android:name=".UserSetup"
-            android:exported="false" />
-        <activity
-            android:name=".FormularioActivity"
-            android:exported="false" />
+        tools:targetApi="31" >
 
         <activity
-            android:name=".LoginOuCadastroActivity"
+            android:name=".UserSetup"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -36,7 +30,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
@@ -45,11 +38,11 @@
             android:value="${MAPS_API_KEY}" />
 
         <activity
-            android:name=".GpsMapTest"
+            android:name="com.immortalweeds.pedometer.GpsMapTest"
             android:exported="false" />
         <activity
-            android:name=".CountStep"
-            android:exported="true" />
+            android:name="com.immortalweeds.pedometer.CountStep"
+            android:exported="true"/>
         <activity
             android:name=".GpsMap"
             android:exported="true" />

@@ -16,9 +16,6 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-    buildFeatures {
-        viewBinding true
-    }
     buildTypes {
         release {
             minifyEnabled true
@@ -78,8 +75,4 @@ dependencies {
     implementation 'io.nlopez.smartlocation:library:3.3.3'
 
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1"
-
-    //firebase
-    implementation 'com.google.firebase:firebase-auth-ktx:22.1.1'
-    implementation 'com.google.firebase:firebase-database-ktx:20.2.2'
 }

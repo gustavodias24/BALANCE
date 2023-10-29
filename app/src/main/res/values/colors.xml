@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="purple_200">#37474f</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#272f3c</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
     <color name="yellow">#ffbe35</color>
     <color name="blue_grey">#37474f</color>
     <color name="silver">#bdbdbd</color>
@@ -8,20 +15,4 @@
     <color name="red">#ff8b8b</color>
     <color name="blue_white">#eef7fe</color>
     <color name="blue">#4ba1f9</color>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="back_text">#DDE7EC</color>
-    <color name="font_color">#969696</color>
-    <color name="log_color">#05D607</color>
-    <color name="btn_color">#f72585</color>
-    <color name="color_prox_text">#F9FDFF</color>
-    <color name="corDeFundo">#F0F0F0</color>
-    <color name="corGradienteInicio">#24077a</color>
-    <color name="corGradienteCentro">#480ca8</color>
-    <color name="corGradienteFim">#6a33cc</color>
 </resources>
