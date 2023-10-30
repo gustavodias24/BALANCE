@@ -15,4 +15,13 @@
     <color name="red">#ff8b8b</color>
     <color name="blue_white">#eef7fe</color>
     <color name="blue">#4ba1f9</color>
+    <color name="back_text">#DDE7EC</color>
+    <color name="font_color">#969696</color>
+    <color name="log_color">#05D607</color>
+    <color name="btn_color">#f72585</color>
+    <color name="color_prox_text">#F9FDFF</color>
+    <color name="corDeFundo">#F0F0F0</color>
+    <color name="corGradienteInicio">#24077a</color>
+    <color name="corGradienteCentro">#480ca8</color>
+    <color name="corGradienteFim">#6a33cc</color>
 </resources>

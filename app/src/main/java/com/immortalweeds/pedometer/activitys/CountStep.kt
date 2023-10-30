@@ -1,4 +1,4 @@
-package com.immortalweeds.pedometer
+package com.immortalweeds.pedometer.activitys
 
 import android.content.Context
 import android.content.Intent

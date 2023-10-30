@@ -1,6 +1,6 @@
 
 
-package com.immortalweeds.pedometer
+package com.immortalweeds.pedometer.activitys
 
 import android.Manifest
 import android.annotation.SuppressLint
